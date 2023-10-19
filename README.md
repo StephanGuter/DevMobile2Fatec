@@ -10,6 +10,7 @@ Estes foram desenvolvidos durante as aulas de 'Desenvolvimento para Aplicativos 
 - [App 07 - 23/09/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app07): Formulário de abertura de conta bancária: componentes de formulário.
 - [App 08 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app08): Anúncios: ScrollView horizontal.
 - [App 09 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app09): Vagas de empregos de TI: ScrollView vertical.
+- [App 10 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app10): Conversor de Moedas: operações com componentes de formulário.
 
 Cada aplicativo tem sua própria branch para o desenvolvimento. Clique nos links acima para verificar o código fonte e detalhes de cada um.
 
