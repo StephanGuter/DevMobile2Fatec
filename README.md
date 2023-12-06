@@ -12,7 +12,8 @@ Estes foram desenvolvidos durante as aulas de 'Desenvolvimento para Aplicativos 
 - [App 09 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app09): Vagas de empregos de TI: ScrollView vertical.
 - [App 10 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app10): Conversor de Moedas: operações com componentes de formulário.
 - [App 11 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app11): Formulário de abertura de conta bancária com 2 telas: Stack Navigator.
-- [App 12 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app12): Meu Perfil: Material Top Tab Navigator.
+- [App 12 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app12): Meu Perfil: Top Tab Navigator.
+- [App 13 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app13): Meu Perfil: Bottom Tab Navigator.
 
 Cada aplicativo tem sua própria branch para o desenvolvimento. Clique nos links acima para verificar o código fonte e detalhes de cada um.
 
