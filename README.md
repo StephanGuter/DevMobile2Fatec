@@ -1,22 +1,8 @@
-# Aplicativos com React Native
-Bem-vindo ao repositório dos meus projetos de aplicativos desenvolvidos com React Native.
-Estes foram desenvolvidos durante as aulas de 'Desenvolvimento para Aplicativos Móveis II', do curso de Tecnologia em Sistemas para Internet, na FATEC Baixada Santista.
-
-- [App 01 - 19/08/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app01): Perfil: conceitos iniciais sobre componentes, estilos e JSX.
-- [App 02 - 26/08/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app02): Contador de pessoas: botões, funções e hooks (useState).
-- [App 03 - 02/09/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app03): Multiplicação de 2 números: inputs.
-- [App 04 - 02/09/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app04): Álcool ou gasolina: props.
-- [App 05 - 16/09/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app05): Cálculo de IMC.
-- [App 07 - 23/09/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app07): Formulário de abertura de conta bancária: componentes de formulário.
-- [App 08 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app08): Anúncios: ScrollView horizontal.
-- [App 09 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app09): Vagas de empregos de TI: ScrollView vertical.
-- [App 10 - 07/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app10): Conversor de Moedas: operações com componentes de formulário.
-- [App 11 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app11): Formulário de abertura de conta bancária com 2 telas: Stack Navigator.
-- [App 12 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app12): Meu Perfil: Material Top Tab Navigator.
-
-Cada aplicativo tem sua própria branch para o desenvolvimento. Clique nos links acima para verificar o código fonte e detalhes de cada um.
-
+# App 13
+### Ilustração da(s) tela(s):
+![Imagem 01 de App13](App13/prints/App13-01.JPG)
+![Imagem 02 de App13](App13/prints/App13-02.JPG)
+![Imagem 03 de App13](App13/prints/App13-03.JPG)
 ##
-
 >Stephan Güter F. Cunha
 >RA: 0050861911033
