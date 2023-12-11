@@ -14,10 +14,11 @@ Estes foram desenvolvidos durante as aulas de 'Desenvolvimento para Aplicativos 
 - [App 11 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app11): Formulário de abertura de conta bancária com 2 telas: Stack Navigator.
 - [App 12 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app12): Meu Perfil: Top Tab Navigator.
 - [App 13 - 21/10/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/app13): Meu Perfil: Bottom Tab Navigator.
+- [App Astrofield - 08/12/2023](https://github.com/StephanGuter/DevMobile2Fatec/tree/astrofield): Astrofield: desenvolvido como avaliação final da disciplina.
 
 Cada aplicativo tem sua própria branch para o desenvolvimento. Clique nos links acima para verificar o código fonte e detalhes de cada um.
 
 ##
 
 >Stephan Güter F. Cunha
->RA: 0050861911033
+>RA: 0050831911033
